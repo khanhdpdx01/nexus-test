@@ -39,6 +39,20 @@
     <description>Gateway demo</description>
     <url>https://github.com/khanhdpdx01/nexus-test</url>
 
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Khanh Nguyen</name>
+            <email>tankhanh2k1@gmail.com</email>
+            <organizationUrl>https://github.com/khanhdpdx01</organizationUrl>
+        </developer>
+    </developers>
 
     <scm>
         <connection>scm:git:git://github.com/khanhdpdx01/nexus-test.git</connection>
