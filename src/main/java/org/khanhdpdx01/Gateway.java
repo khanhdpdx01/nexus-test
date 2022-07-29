@@ -1,4 +1,4 @@
-package org.example;
+package org.khanhdpdx01;
 
 public class Gateway {
     public int plus(int a, int b) {
