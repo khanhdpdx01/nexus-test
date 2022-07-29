@@ -1,4 +1,4 @@
-package org.khanhdpdx01;
+package io.github.khanhdpdx01;
 
 public class Gateway {
     public int plus(int a, int b) {
